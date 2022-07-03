@@ -9,7 +9,7 @@ const count = ref(0)
 <template>
   <h1>{{ msg }}</h1>
 
-  <h1>{{ msg }}</h1>
+  <h1>{{ msg }}aaa</h1>
 </template>
 
 <style scoped>
